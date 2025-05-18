@@ -10,7 +10,8 @@ This project demonstrates how to use Apache Kafka with Node.js to produce and st
 
 Below is the architecture of the system:
 
-![Kafka Task Logger Architecture](./a6206c4c-7d06-4723-bc6b-0649c84fd885.png)
+![image](https://github.com/user-attachments/assets/694a06ec-8061-407c-b1eb-3f2a2ac5f1d4)
+
 
 ### 🔄 Flow Explanation:
 
